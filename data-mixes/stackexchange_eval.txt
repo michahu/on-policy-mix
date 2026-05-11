@@ -1,0 +1,2 @@
+datadecide/redpajama_v1_decon_fix/stackexchange/gpt-neox-olmo-dolma-v1_5/part-24-00000.npy
+datadecide/redpajama_v1_decon_fix/stackexchange/gpt-neox-olmo-dolma-v1_5/part-25-00000.npy

@@ -1,0 +1,8 @@
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-00-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-01-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-02-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-03-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-04-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-05-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-06-00000.npy
+datadecide/tulu_flan/v0_all_train/gpt-neox-olmo-dolma-v1_5-tokenizers-0-19-1/part-07-00000.npy

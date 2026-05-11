@@ -1,0 +1,6 @@
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-08-00000.npy
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-25-00000.npy
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-19-00000.npy
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-16-00000.npy
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-01-00000.npy
+datadecide/redpajama_v1_decon_fix/arxiv/gpt-neox-olmo-dolma-v1_5/part-23-00000.npy
