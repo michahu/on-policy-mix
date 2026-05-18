@@ -81,3 +81,16 @@ python eval_sdft.py \
   --alphas 0.0 0.5 1.0 \
   --output_dir runs/lmc_sdft_example
 ```
+
+## Citation
+```bibtex
+@misc{hu2026opmix,
+      title={Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time}, 
+      author={Michael Y. Hu and Apurva Gandhi and Kyunghyun Cho and Tal Linzen and Pratyusha Sharma},
+      year={2026},
+      eprint={2605.15220},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.15220}, 
+}
+```
