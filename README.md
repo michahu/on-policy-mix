@@ -1,5 +1,7 @@
 # On Policy Mix
 
+[arXiv](https://arxiv.org/abs/2605.15220)
+
 <p align="center">
   <img src="assets/op-mix-overview-compact.png" />
 </p>
